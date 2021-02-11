@@ -39,7 +39,7 @@
 [Predict genres of a movie from its summary](/machine-learning/predict-genre-from-movie-summary.py)
 
 ## Programming Languages
-[Build a language from scratch](https://github.com/selimslab/language)  
+[Build a language from scratch](/language/)  
 
 ## What's next? 
  
