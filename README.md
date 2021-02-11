@@ -6,7 +6,7 @@
 
 ## Algorithms 
 
-[github repo](https://github.com/selimslab/algo)
+[github repo](https://github.com/selimslab/algo-rhythms)
 ## Infrastructure 
 [A concurrent web server in 100 lines](/server/web-server-from-scratch.py)
 
@@ -18,7 +18,9 @@
 
 [Django starter kit with filter, group, sort, and aggregate](https://gist.github.com/selimslab/deb13d127776e551ee58d6c9ff293108#file-readme-md)
 
+## Graphs
 
+[Find out groups and clusters in a graph](https://github.com/selimslab/auto-group)
 ## Information Retrieval 
 
 [a search engine in 200 lines](/search/tinysearch.py)
@@ -47,7 +49,12 @@
 [Predict genres of a movie from its summary](/machine-learning/predict-genre-from-movie-summary.py)
 
 ## Programming Languages
-[Build a language from scratch](/language/)  
+
+[a LISP interpreter in Python](/language/interpreter/lis.py)  
+
+[a simple garbage collector in C](/language/garbage-collector/gc.c)  
+
+[a simple PASCAL interpreter in Python, step by step](https://github.com/selimslab/interpretty)
 
 ## What's next? 
  
