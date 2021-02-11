@@ -1,4 +1,8 @@
-# mini-projects
+# mini projects
+
+a list of software I have built for fun
+
+Enjoy! 
 
 ![](/assets/launch.jpg)
 ## Data structures 
@@ -16,11 +20,11 @@
 
 [a flask starter kit with list and detail views](/flask-sqlalchemy/)
 
-[Django starter kit with filter, group, sort, and aggregate](https://gist.github.com/selimslab/deb13d127776e551ee58d6c9ff293108#file-readme-md)
+[Django analytics API with filter, group, sort, and aggregates](https://gist.github.com/selimslab/deb13d127776e551ee58d6c9ff293108#file-readme-md)
 
 ## Graphs
 
-[Find out groups and clusters in a graph](https://github.com/selimslab/auto-group)
+[Find out groups and clusters in graphs](https://github.com/selimslab/auto-group)
 ## Information Retrieval 
 
 [a search engine in 200 lines](/search/tinysearch.py)
