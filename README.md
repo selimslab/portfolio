@@ -2,8 +2,6 @@
 
 a list of software I have built for fun
 
-Enjoy!
-
 ![](/assets/launch.jpg)
 
 ## Data structures
