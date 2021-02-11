@@ -1,10 +1,30 @@
 # mini-projects
 
-
+## Data structures 
 [a C hash map from scratch](/hashmap-from-scratch/hashmap.c)
 
-[a blockchain in 100 lines](/tinychain.py)
+## Algorithms 
+[github repo](https://github.com/selimslab/algo)
+## Infrastructure 
+[A concurrent web server in 100 lines](/web-server-from-scratch.py)
+## Operating Systems 
+[Logos, a tiny OS kernel from scratch](https://github.com/selimslab/logos)  
+## Blockchain 
 
+[a blockchain in 100 lines](/tinychain.py)
+## Web crawling 
+
+[Build reusable spiders, run them concurrently, process streaming data](/web-spiders/)
+
+## Quick-start kits 
+
+[a flask starter kit with list and detail views](/flask-sqlalchemy/)
+
+[Django starter kit with filter, group, sort, and aggregate](https://gist.github.com/selimslab/deb13d127776e551ee58d6c9ff293108#file-readme-md)
+
+[Django auth setup](https://gist.github.com/selimslab/5e93166967d0ceeaf489e6a526c83ac9#file-apps-py)
+
+[Python clients for ElasticSearch, Firebase, MongoDB](/python-clients/)
 ## Machine learning 
 
 [Classification of high dimensional data ](/high-dimensionality/readme.md)
@@ -13,13 +33,9 @@
 
 [Predict genres of a movie from its summary](/machine-learning/predict-genre-from-movie-summary.py)
 
-## Web 
+## Programming Languages
+[Build a language from scratch](https://github.com/selimslab/language)  
 
-[A concurrent web server in 100 lines](/web-server-from-scratch.py)
-
-[Build reusable spiders, run them concurrently, process streaming data](/web-spiders/)
-
-
-## APIs
-
-[a flask api boilerplate with list and detail views](/flask-sqlalchemy/)
+## What's next? 
+ 
+[Makerspace: Inspiration for your next project](/makerspace.md)
