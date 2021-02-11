@@ -4,10 +4,14 @@
 ## Data structures 
 [a C hash map from scratch](/hashmap-from-scratch/hashmap.c)
 
-## Algorithms 
+## Algorithms 
 [github repo](https://github.com/selimslab/algo)
 ## Infrastructure 
 [A concurrent web server in 100 lines](/server/web-server-from-scratch.py)
+
+## Information Retrieval 
+
+[a search engine in 200 lines](/search/tinysearch.py)
 ## Operating Systems 
 [Logos, a tiny OS kernel from scratch](https://github.com/selimslab/logos)  
 ## Blockchain 
