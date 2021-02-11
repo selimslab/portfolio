@@ -6,12 +6,12 @@
 ## Algorithms 
 [github repo](https://github.com/selimslab/algo)
 ## Infrastructure 
-[A concurrent web server in 100 lines](/web-server-from-scratch.py)
+[A concurrent web server in 100 lines](/server/web-server-from-scratch.py)
 ## Operating Systems 
 [Logos, a tiny OS kernel from scratch](https://github.com/selimslab/logos)  
 ## Blockchain 
 
-[a blockchain in 100 lines](/tinychain.py)
+[a blockchain in 100 lines](/blockchain/tinychain.py)
 ## Web crawling 
 
 [Build reusable spiders, run them concurrently, process streaming data](/web-spiders/)
