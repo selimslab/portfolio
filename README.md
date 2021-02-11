@@ -1,5 +1,6 @@
 # mini-projects
 
+![](/assets/launch.jpg)
 ## Data structures 
 [a C hash map from scratch](/hashmap-from-scratch/hashmap.c)
 
