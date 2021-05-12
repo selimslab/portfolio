@@ -1,6 +1,4 @@
-# mini projects
-
-a list of software I have built for fun
+# mini projects for fun and learning 
 
 ![](/assets/launch.jpg)
 
